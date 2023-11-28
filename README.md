@@ -56,5 +56,7 @@ SoapUI, Git, Chrome DevTools.
 ## Контактная информация
 
 * Email: vkihaeva@gmail.com
+* Телеграмм: @vikariko
+* Номер сотового телефона: 89174429052
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viktoriyhhhhh&theme=flag_india)
