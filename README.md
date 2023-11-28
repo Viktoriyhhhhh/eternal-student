@@ -53,7 +53,7 @@ SoapUI, Git, Chrome DevTools.
 
 Мною было обнаружено 8 багов с приоритетами High и Low
 
-## Контактная информация
+## :email: Контактная информация
 
 * Email: vkihaeva@gmail.com
 
