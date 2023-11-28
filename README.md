@@ -23,7 +23,7 @@
 ## :hammer_and_wrench: Навыки и технологии
 
 Jira, Qase.io, SQL, Postman, Fiddler, Swagger, Trello,
-SoapUI, Git, Chrome DevTools.
+SoapUI, Git, Chrome DevTools, Confluence, Mockoon
 
 ## :memo: Проекты
 
