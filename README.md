@@ -22,7 +22,7 @@
 
 ## :hammer_and_wrench: Навыки и технологии
 
-Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello,
+Jira, Qase.io, SQL, Postman, Fiddler, Swagger, Trello,
 SoapUI, Git, Chrome DevTools.
 
 ## :memo: Проекты
