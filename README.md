@@ -33,7 +33,7 @@ SoapUI, Git, Chrome DevTools, Confluence, Mockoon
 - [x] Провести тестирование
 - [x] Оформить отчет о результатах тестирования
 
-> https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b
+> [https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b](https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b?pvs=4)
 
 ### Проект 2: тест кабинета учителя в приложении Skyeng
 
@@ -42,7 +42,7 @@ SoapUI, Git, Chrome DevTools, Confluence, Mockoon
 - [x] Провести тестирование API
 - [x] Дополнить отчет о тестировании
 
-> https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b
+> [https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b](https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b?pvs=4)
 
 Выводы:
   
