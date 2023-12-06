@@ -51,7 +51,7 @@ SoapUI, Git, Chrome DevTools, Confluence, Mockoon
 
 > [https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b](https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b?pvs=4)
 
-Выводы:
+Вывод:
   
 - [x] Освоила консоль разработчика (Chrome DevTools)
 - [x] Владею навыком в работе с сервисом для создания, тестирования, документирования, публикации и обслуживания API - Postman
