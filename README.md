@@ -33,7 +33,7 @@ SoapUI, Git, Chrome DevTools, Confluence, Mockoon
 - [ ] Провести тестирование
 - [ ] Оформить отчет о результатах тестирования
 
-> [https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b](https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b?pvs=4)
+> [[https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b](https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b?pvs=4)](https://invited-breakfast-8d9.notion.site/1-2-4f890ca617254e748c61e8df39ed761b?pvs=4)
 
 Вывод:
   
@@ -49,7 +49,7 @@ SoapUI, Git, Chrome DevTools, Confluence, Mockoon
 - [ ] Провести тестирование API
 - [ ] Дополнить отчет о тестировании
 
-> [https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b](https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b?pvs=4)
+> [[https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b](https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b?pvs=4)](https://invited-breakfast-8d9.notion.site/1-2-4f890ca617254e748c61e8df39ed761b?pvs=4)
 
 Вывод:
   
