@@ -1,17 +1,15 @@
-<div align="center">
-  
 # Портфолио: инженер по тестированию
 
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZmeTRzNWkyaW4wdGl6N2ZhbHcxcno1YWFmdm8xN2M1cmxkbnptayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
 </div>
-<div id="header" align="center">
+<div id="header">
 <h1>
   Привет
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
+<div>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
 
