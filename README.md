@@ -23,7 +23,7 @@
 Jira, Qase.io, SQL, Postman, Fiddler, Swagger, Trello,
 SoapUI, Git, Chrome DevTools, Confluence, Mockoon
 
-## :memo: Проекты
+## :memo: Мои проекты
 
 ### Проект 1: тест веб-приложения для учителей от Skyeng
 
@@ -33,12 +33,16 @@ SoapUI, Git, Chrome DevTools, Confluence, Mockoon
 - [x] Провести тестирование
 - [x] Оформить отчет о результатах тестирования
 
+> https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b
+
 ### Проект 2: тест кабинета учителя в приложении Skyeng
 
 Что нужно было сделать:
 
 - [x] Провести тестирование API
 - [x] Дополнить отчет о тестировании
+
+> https://www.notion.so/1-2-4f890ca617254e748c61e8df39ed761b
 
 Выводы:
   
